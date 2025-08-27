@@ -11,4 +11,4 @@ class ApiResponse {
 }
 
 // Exporting the `ApiResponse` class for use in other parts of the application
-export { ApiResponse };
+export default { ApiResponse };
