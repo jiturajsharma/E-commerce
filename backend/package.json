@@ -25,6 +25,7 @@
     "mongoose": "^8.17.2",
     "multer": "^2.0.2",
     "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.5",
     "request": "^2.88.2",
     "stripe": "^18.4.0"
   }
